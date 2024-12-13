@@ -2,7 +2,7 @@
 <img src="./distro/image.jpg">
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+<img src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge">
 </p>
 <p align="center">
@@ -88,12 +88,6 @@ Full Credit of the Ubuntu image goes to them .
 
 Termux Proot Distro - https://github.com/termux/proot-distro
 ```
-
-### Maintainers
-
-- [**Mustakim Ahmed**](https://github.com/BDhackers009)
-- [**Tahmid Rayat**](https://github.com/htr-tech)
-- [**0xBaryonyx**](https://github.com/Mahfuz-THBD)
 
 
 ### If you like our work then dont forget to give a Star :)
